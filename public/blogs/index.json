@@ -384,40 +384,15 @@
     "category": ""
   },
   {
-    "slug": "texture-format",
-    "title": "图片格式 —— 关于材质的大小研究",
+    "slug": "image-transform",
+    "title": "Image 展示方案",
     "tags": [
-      "图片压缩",
-      "webp"
+      "react",
+      "组件"
     ],
-    "date": "2025-11-25",
-    "summary": "压缩图片的讨论",
-    "cover": "/blogs/texture-format/2c7d9391c47a1876.jpg",
-    "category": "总结"
-  },
-  {
-    "slug": "liquid-grass",
-    "title": "好玩的液态玻璃",
-    "tags": [
-      "液态玻璃",
-      "ios"
-    ],
-    "date": "2025-11-21",
-    "summary": "很简单就能实现这个液态玻璃效果，真棒",
-    "cover": "/blogs/liquid-grass/0e7190ecaedc4930.png",
-    "category": "代码实现"
-  },
-  {
-    "slug": "pixel-motion",
-    "title": "像素画工具发布",
-    "tags": [
-      "像素画",
-      "阮一峰",
-      "PixelMotion"
-    ],
-    "date": "2025-08-08",
-    "summary": "一个支持模块化的像素画工具",
-    "cover": "/blogs/pixel-motion/391a0feb7dac7aaf82dc5df3ce11a1dfefe5d4ce241c68799da608073f4cc89d.png"
+    "date": "2025-03-30",
+    "summary": "页面图像点击展示，使其顺化过渡",
+    "cover": "/blogs/image-transform/b4a55dee9304546b.jpg"
   },
   {
     "slug": "git-variables",
@@ -431,49 +406,13 @@
     "cover": "/blogs/git-variables/6166433682180769.png"
   },
   {
-    "slug": "path-motion-methods",
-    "title": "Path Motion 的不同方式",
+    "slug": "sdk-fix",
+    "title": "SDK 需求应对策略",
     "tags": [
-      "测试",
-      "svg",
-      "path"
+      "笔记"
     ],
-    "date": "2025-03-06",
-    "summary": "这里收集一下几种 Path motion 的实现方式，和对它们的评价。",
-    "cover": "/blogs/path-motion-methods/88f584f156a64ee8.jpg"
-  },
-  {
-    "slug": "dynamic-circle",
-    "title": "一个动态圆",
-    "tags": [
-      "开发",
-      "svg",
-      "动画"
-    ],
-    "date": "2023-12-25",
-    "summary": "变形的圆，波荡的曲线，可交互的按钮。",
-    "cover": "/blogs/dynamic-circle/f35df236cc5a83a61702437581667af73e3b2780e3c4f9a0b7c1008a5c1984ca.png"
-  },
-  {
-    "slug": "startsWith-reg",
-    "title": "用 startsWith 会比用正则更快吗",
-    "tags": [
-      "测试"
-    ],
-    "date": "2023-07-04",
-    "summary": "正常认为，startsWith 处理会更好，事实却有所不同。",
-    "cover": "/blogs/startsWith-reg/72d2e45348d26b91.jpg"
-  },
-  {
-    "slug": "webpack-react",
-    "title": "Webpack 打包开发 React",
-    "tags": [
-      "总结",
-      "webpack",
-      "react"
-    ],
-    "date": "2023-07-03",
-    "summary": "记录一下如何用 Webpack 进行 React 项目的开发，总结 Webpack 对我的影响。",
-    "cover": "/blogs/webpack-react/f5f7beaea4b7ae16.jpg"
+    "date": "2025-02-25",
+    "summary": "SDK 使用中总有差一点功能、莫名报错的问题，记录我的应对方案。",
+    "cover": "/blogs/sdk-fix/12fdc67bd593abdb.jpg"
   }
 ]
