@@ -100,5 +100,19 @@
 		"tags": [
 			"教程"
 		]
+	},
+	{
+		"name": "NL2SQL Data Engineering Agent",
+		"year": 2026,
+		"description": "基于 LLM 的自然语言转 SQL 数据工程智能体：支持中英双语、RAG 混合语义检索、多轮对话、多数据库与多 LLM 适配，带 Web 工作台和持续学习。",
+		"image": "https://github.com/Qorq-byte.png",
+		"url": "https://github.com/Qorq-byte/Data_engineer",
+		"tags": [
+			"Python",
+			"NL2SQL",
+			"AI Agent",
+			"数据工程"
+		],
+		"github": "https://github.com/Qorq-byte/Data_engineer"
 	}
 ]
