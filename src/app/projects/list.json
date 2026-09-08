@@ -114,5 +114,19 @@
 			"数据工程"
 		],
 		"github": "https://github.com/Qorq-byte/Data_engineer"
+	},
+	{
+		"name": "云海睿评 AI_Grade",
+		"year": 2026,
+		"description": "AI 绩效评价报告生成系统：14 步标准化流程自动完成资料整理、三级指标体系构建、评分与问题分析、报告组装，支持 Word/PDF 导出、多模型调用与实时进度推送。",
+		"image": "https://opengraph.githubassets.com/bac605395edfa288bebb1485d700a62d2c6245bb4d54aa5cd11073b18226c1a9/Qorq-byte/AI_Grade",
+		"url": "https://github.com/Qorq-byte/AI_Grade",
+		"tags": [
+			"Python",
+			"FastAPI",
+			"AI",
+			"绩效评价"
+		],
+		"github": "https://github.com/Qorq-byte/AI_Grade"
 	}
 ]
