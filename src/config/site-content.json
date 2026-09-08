@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "Hello",
+		"description": "祺orQ的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"username": "祺orQ"
 	},
 	"theme": {
 		"colorBrand": "#2fcbe7",
@@ -45,21 +45,21 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/Qorq-byte",
 			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "juejin",
 			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
+			"value": "",
+			"label": "",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "",
+			"value": "3145971253@qq.com",
 			"label": "",
 			"order": 1
 		}
@@ -69,7 +69,7 @@
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 3,
+	"currentHatIndex": 1,
 	"hatFlipped": false,
 	"enableChristmas": false,
 	"beian": {
