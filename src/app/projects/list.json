@@ -39,5 +39,19 @@
 			"绩效评价"
 		],
 		"github": "https://github.com/Qorq-byte/AI_Grade"
+	},
+	{
+		"name": "清洁机器人售后助手",
+		"year": 2026,
+		"description": "面向扫地/扫拖一体机器人的智能客服项目：基于 LangChain ReAct Agent + RAG，通过 Streamlit 提供 Web 对话界面，可回答产品使用、故障排查、选购与保养问题，并生成个人使用情况报告。",
+		"image": "https://opengraph.githubassets.com/2d08b77eee14bf7696777df9823516719d0673609fd529151b9caf889c16ff75/Qorq-byte/cleaning-robot-assistant",
+		"url": "https://github.com/Qorq-byte/cleaning-robot-assistant",
+		"tags": [
+			"Python",
+			"LangChain",
+			"RAG",
+			"Streamlit"
+		],
+		"github": "https://github.com/Qorq-byte/cleaning-robot-assistant"
 	}
 ]
