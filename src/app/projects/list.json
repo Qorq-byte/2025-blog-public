@@ -13,48 +13,6 @@
 		]
 	},
 	{
-		"name": "JSON Viewer",
-		"year": 2023,
-		"description": "React 的 JSON 查看/编辑组件，组件的实现方式依赖于 html 原生逻辑，比较轻量化。第二个用心的组件，学习了前辈的包装方式，介绍方式，网站样式。用户也慢慢多了起来。",
-		"image": "https://jv.yysuni.com/favicon.svg",
-		"url": "https://jv.yysuni.com/",
-		"tags": [
-			"React",
-			"JSON",
-			"Viewer",
-			"阮周刊"
-		],
-		"github": "https://github.com/YYsuni/react18-json-view",
-		"npm": "https://www.npmjs.com/package/react18-json-view"
-	},
-	{
-		"name": "Blockies",
-		"year": 2023,
-		"description": " Blockies React组件，SVG 实现，用于生成区块链地址的图标。这是我的第一个有人用的组件，虽然人不多",
-		"image": "/images/blockies.svg",
-		"url": "https://blockies-react-svg.vercel.app/",
-		"tags": [
-			"React",
-			"SVG",
-			"Blockies"
-		],
-		"github": "https://github.com/YYsuni/blockies-react-svg",
-		"npm": "https://www.npmjs.com/package/blockies-react-svg"
-	},
-	{
-		"name": "箭头生成小工具",
-		"year": 2026,
-		"image": "/images/project/03c08b1832f36f02.png",
-		"url": "https://currve-arrow.yysuni.com/",
-		"description": "实时生成弧线箭头 SVG，可用于图表绘制，也可用于设计取材。没想到这也被周刊看上。",
-		"tags": [
-			"arrow",
-			"阮周刊"
-		],
-		"github": "https://github.com/YYsuni/curve-arrow",
-		"npm": "https://www.npmjs.com/package/curve-arrow"
-	},
-	{
 		"name": "NL2SQL Data Engineering Agent",
 		"year": 2026,
 		"description": "基于 LLM 的自然语言转 SQL 数据工程智能体：支持中英双语、RAG 混合语义检索、多轮对话、多数据库与多 LLM 适配，带 Web 工作台和持续学习。",
