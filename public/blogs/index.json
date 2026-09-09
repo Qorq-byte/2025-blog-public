@@ -12,56 +12,6 @@
     "category": ""
   },
   {
-    "slug": "ai-canvas-game",
-    "title": "AI 画布与游戏",
-    "tags": [
-      "AI",
-      "游戏"
-    ],
-    "date": "2026-08-19T15:45",
-    "summary": "AI 画布，AI 时代下的 Figma，喜欢",
-    "cover": "/blogs/ai-canvas-game/ef3e8690dd3f6993.webp",
-    "hidden": false,
-    "category": ""
-  },
-  {
-    "slug": "plan-b",
-    "title": "技术规划",
-    "tags": [
-      "Flutter",
-      "Electron"
-    ],
-    "date": "2026-07-17T16:20",
-    "summary": "本想考虑下 Flutter ，盘算后，还是使用 Eletron",
-    "cover": "/blogs/plan-b/9f408b477a8a178c.webp",
-    "hidden": false,
-    "category": ""
-  },
-  {
-    "slug": "desktop-note",
-    "title": "桌面应用小记",
-    "tags": [
-      "Python"
-    ],
-    "date": "2026-07-13T16:58",
-    "summary": "偶然的机会，开始做 Python 应用，做桌面应用。",
-    "cover": "/blogs/desktop-note/eb0c7c22e6760274.webp",
-    "hidden": false,
-    "category": ""
-  },
-  {
-    "slug": "dev-summary",
-    "title": "开发总结",
-    "tags": [
-      "python"
-    ],
-    "date": "2026-05-28T17:45",
-    "summary": "这段时间的开发总结",
-    "cover": "/blogs/dev-summary/6c7db43c84c51f79.svg",
-    "hidden": false,
-    "category": ""
-  },
-  {
     "slug": "auto-tool",
     "title": "自动工具",
     "tags": [
@@ -70,58 +20,6 @@
     "date": "2026-05-09T22:31",
     "summary": "写一款自动工具",
     "cover": "/blogs/auto-tool/9b88247337ecb91f.webp",
-    "hidden": false,
-    "category": ""
-  },
-  {
-    "slug": "curve-arrow",
-    "title": "箭头生成小工具",
-    "tags": [
-      "curve-arrow",
-      "ai"
-    ],
-    "date": "2026-04-29T15:38",
-    "summary": "绘制图表的副产物，也感叹 AI 效率太快",
-    "cover": "/blogs/curve-arrow/ce105aff48542f02.webp",
-    "hidden": false,
-    "category": ""
-  },
-  {
-    "slug": "data-dashboard",
-    "title": "数据大屏中的地图渲染",
-    "tags": [
-      "3D",
-      "Threejs",
-      "科幻"
-    ],
-    "date": "2026-04-08T11:58",
-    "summary": "尝试做一个好看的3D科幻地图",
-    "cover": "/blogs/data-dashboard/18dace32db7bfa4f.webp",
-    "hidden": false,
-    "category": ""
-  },
-  {
-    "slug": "rendering-spline",
-    "title": "渲染类似 Spline 的清新风格",
-    "tags": [
-      "Threejs"
-    ],
-    "date": "2026-03-30T16:30",
-    "summary": "渲染真实不容易啊",
-    "cover": "/blogs/rendering-spline/5f7521ad156f2439.webp",
-    "hidden": false,
-    "category": ""
-  },
-  {
-    "slug": "draggable-card-3",
-    "title": "3D吊牌 - 优化实现",
-    "tags": [
-      "Threejs",
-      "3D"
-    ],
-    "date": "2026-03-25T21:35",
-    "summary": "我自己的实现",
-    "cover": "/blogs/draggable-card-3/da2d4d8351b3bef8.webp",
     "hidden": false,
     "category": ""
   },
@@ -154,18 +52,6 @@
     "category": ""
   },
   {
-    "slug": "cursor-keyboard",
-    "title": "Cursor 快捷键",
-    "tags": [
-      "cursor"
-    ],
-    "date": "2026-03-06T09:47",
-    "summary": "常用、便捷操作",
-    "cover": "/blogs/cursor-keyboard/b8e0790993a85d17.jpg",
-    "hidden": false,
-    "category": ""
-  },
-  {
     "slug": "blender-scene-note",
     "title": "Blender场景建模笔记",
     "tags": [
@@ -175,20 +61,6 @@
     "date": "2026-03-04T16:25",
     "summary": "blender 笔记",
     "cover": "/blogs/blender-scene-note/32c234f6bf0b8b9b.webp",
-    "hidden": false,
-    "category": ""
-  },
-  {
-    "slug": "live2d-note",
-    "title": "做一个 Live2D",
-    "tags": [
-      "学习",
-      "Live2D",
-      "笔记"
-    ],
-    "date": "2026-02-28T14:40",
-    "summary": "记录 Live2D 软件心得",
-    "cover": "/blogs/live2d-note/bab67a1255a0d0da.webp",
     "hidden": false,
     "category": ""
   },
@@ -203,46 +75,6 @@
     "cover": "/blogs/watch-bloggers/ff9a6df88fc0bbb4.webp",
     "hidden": false,
     "category": "总结"
-  },
-  {
-    "slug": "3d-scene-note",
-    "title": "3D 场景搭建笔记",
-    "tags": [
-      "学习",
-      "笔记",
-      "3D"
-    ],
-    "date": "2026-02-06T17:21",
-    "summary": "计划如何计划",
-    "cover": "/blogs/3d-scene-note/96d5437de1d0424f.webp",
-    "hidden": false,
-    "category": ""
-  },
-  {
-    "slug": "3d-blender-note",
-    "title": "3D 与 Blender 笔记",
-    "tags": [
-      "学习",
-      "3D"
-    ],
-    "date": "2026-02-05T17:20",
-    "summary": "遇到一个坑的笔记",
-    "cover": "/blogs/3d-blender-note/d61f14bf7b05d654.webp",
-    "hidden": false,
-    "category": ""
-  },
-  {
-    "slug": "model-animation-note",
-    "title": "模型动画笔记",
-    "tags": [
-      "学习",
-      "建模"
-    ],
-    "date": "2026-02-03T11:40",
-    "summary": "骨骼与动画",
-    "cover": "/blogs/model-animation-note/0655bc33056c4af1.webp",
-    "hidden": false,
-    "category": ""
   },
   {
     "slug": "cartoon-note-render",
@@ -360,18 +192,6 @@
     "category": "开源"
   },
   {
-    "slug": "electric-border",
-    "title": "电光边框效果",
-    "tags": [
-      "学习"
-    ],
-    "date": "2026-01-06T17:05",
-    "summary": "AI 学习边框特效",
-    "cover": "/blogs/electric-border/9b898d43a5a85684.webp",
-    "hidden": false,
-    "category": "代码实现"
-  },
-  {
     "slug": "driving-tour",
     "title": "年底的自驾游",
     "tags": [
@@ -382,28 +202,6 @@
     "cover": "/blogs/driving-tour/474f9e7a4c63084a.webp",
     "hidden": false,
     "category": ""
-  },
-  {
-    "slug": "image-transform",
-    "title": "Image 展示方案",
-    "tags": [
-      "react",
-      "组件"
-    ],
-    "date": "2025-03-30",
-    "summary": "页面图像点击展示，使其顺化过渡",
-    "cover": "/blogs/image-transform/b4a55dee9304546b.jpg"
-  },
-  {
-    "slug": "git-variables",
-    "title": "项目植入 Git 变量",
-    "tags": [
-      "git",
-      "尝试"
-    ],
-    "date": "2025-03-10",
-    "summary": "Git 变量结合在项目中，或许有奇特火花。",
-    "cover": "/blogs/git-variables/6166433682180769.png"
   },
   {
     "slug": "sdk-fix",
