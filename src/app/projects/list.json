@@ -53,5 +53,103 @@
 			"Streamlit"
 		],
 		"github": "https://github.com/Qorq-byte/cleaning-robot-assistant"
+	},
+	{
+		"name": "Codex GitHub 连接修复 Skill",
+		"year": 2026,
+		"description": "用于排查 Codex 中 GitHub 连接、HTTPS 登录与推送失败，重点覆盖 Windows 环境。区分代理、TLS、凭据和沙箱限制，依据验证结果调整配置，恢复常规 Git 提交与推送流程。",
+		"image": "https://opengraph.githubassets.com/f8c169b7a4a6541e4f7e0c0c69760b1a6d1afead3c3b630c4633d1ba68137e57/Qorq-byte/repair_codex_network",
+		"url": "https://github.com/Qorq-byte/repair_codex_network",
+		"tags": [
+			"Codex",
+			"Agent Skill",
+			"GitHub",
+			"网络排障"
+		],
+		"github": "https://github.com/Qorq-byte/repair_codex_network"
+	},
+	{
+		"name": "PDF 整理与知识索引 Skill",
+		"year": 2026,
+		"description": "面向 AI Agent 的 PDF 文档整理流程，围绕论文、教材和报告提取主题、摘要、关键词与重要页码，生成文档卡片和分类索引，并给出重复文档识别与归档建议。",
+		"image": "https://opengraph.githubassets.com/b80404112f30e3a763aa47a51e8584d4b61320c45c8e27cf397e10f75d6328ed/Qorq-byte/PDF-Organizer-Skill",
+		"url": "https://github.com/Qorq-byte/PDF-Organizer-Skill",
+		"tags": [
+			"Agent Skill",
+			"PDF",
+			"文档整理",
+			"知识索引"
+		],
+		"github": "https://github.com/Qorq-byte/PDF-Organizer-Skill"
+	},
+	{
+		"name": "四六级错题分析 Skill",
+		"year": 2026,
+		"description": "面向 AI Agent 的四六级错题整理与分析流程，将截图、试卷和文本中的错题归类，分析词汇、语法、阅读与听力失分原因，梳理薄弱知识点并提供针对性复习建议。",
+		"image": "https://opengraph.githubassets.com/c749f32f22830e7f0fa9d0ef725ad3f118a8a4abe2d19066034faf05c01ba3d2/Qorq-byte/CET-Error-Analyzer-Skill-SKILL",
+		"url": "https://github.com/Qorq-byte/CET-Error-Analyzer-Skill-SKILL",
+		"tags": [
+			"Agent Skill",
+			"四六级",
+			"错题分析",
+			"英语学习"
+		],
+		"github": "https://github.com/Qorq-byte/CET-Error-Analyzer-Skill-SKILL"
+	},
+	{
+		"name": "酷狗音乐检索与下载 Skill",
+		"year": 2026,
+		"description": "将自然语言中的音乐风格、情绪和使用场景转化为酷狗检索与筛选流程，指导 Agent 对候选歌曲排序；在具备相应工具和下载权限时，继续完成音乐下载与本地整理。",
+		"image": "https://opengraph.githubassets.com/84383225d3b2f8ac133964bfd46ee11bd7488a1feeba01d45633cc497b5d12f6/Qorq-byte/kugou_muse_skill",
+		"url": "https://github.com/Qorq-byte/kugou_muse_skill",
+		"tags": [
+			"Agent Skill",
+			"酷狗音乐",
+			"音乐检索",
+			"音乐整理"
+		],
+		"github": "https://github.com/Qorq-byte/kugou_muse_skill"
+	},
+	{
+		"name": "RNN 输入法词预测",
+		"year": 2026,
+		"description": "基于 PyTorch RNN 的输入法联想演示，根据最近输入的词预测下一个词，输出概率最高的五个候选。提供中文分词、数据处理、模型训练和命令行交互预测流程。",
+		"image": "https://opengraph.githubassets.com/2325a78fa55ab16ff6b6268c191881f1e94c973b35531f0702380a16b00a4aa7/Qorq-byte/nput-Method-Model-Prediction-System",
+		"url": "https://github.com/Qorq-byte/nput-Method-Model-Prediction-System",
+		"tags": [
+			"Python",
+			"PyTorch",
+			"RNN",
+			"词预测"
+		],
+		"github": "https://github.com/Qorq-byte/nput-Method-Model-Prediction-System"
+	},
+	{
+		"name": "LSTM 中文情感分析",
+		"year": 2026,
+		"description": "基于 PyTorch 双向 LSTM 的中文评论情感分析演示，结合结巴分词判断商品或服务评论的正负面倾向，支持单条与批量预测，并提供模型训练、分类评估和错误样本分析。",
+		"image": "https://opengraph.githubassets.com/dc6347d2b2a483855df6853b1d55f6b1f0a8c203feace190c2d81ea6ddfccdcc/Qorq-byte/Emotion-Analysis",
+		"url": "https://github.com/Qorq-byte/Emotion-Analysis",
+		"tags": [
+			"Python",
+			"PyTorch",
+			"LSTM",
+			"情感分析"
+		],
+		"github": "https://github.com/Qorq-byte/Emotion-Analysis"
+	},
+	{
+		"name": "中英翻译模型预测系统",
+		"year": 2026,
+		"description": "基于 PyTorch Transformer 的中文到英文翻译项目，使用公开中英句对训练模型，包含数据预处理、词表构建、训练、交互式预测与 BLEU 评估流程，可加载已有模型进行翻译。",
+		"image": "https://opengraph.githubassets.com/d630eecbfa4e3c292bcd32bea5d76757909a7b9b79890b6465e32a09361623a9/Qorq-byte/Chinese-English-Translation-Model-Prediction-System",
+		"url": "https://github.com/Qorq-byte/Chinese-English-Translation-Model-Prediction-System",
+		"tags": [
+			"Python",
+			"PyTorch",
+			"Transformer",
+			"机器翻译"
+		],
+		"github": "https://github.com/Qorq-byte/Chinese-English-Translation-Model-Prediction-System"
 	}
 ]
